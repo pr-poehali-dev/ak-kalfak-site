@@ -118,7 +118,7 @@ const Footer = () => {
               </li>
               <li className="flex">
                 <Icon name="Mail" className="w-5 h-5 mr-3 flex-shrink-0" />
-                <span className="text-white/80">info@akkalfak.org</span>
+                <span className="text-white/80">alkalfak54@yandex.ru</span>
               </li>
               <li className="flex">
                 <Icon name="Clock" className="w-5 h-5 mr-3 flex-shrink-0" />
